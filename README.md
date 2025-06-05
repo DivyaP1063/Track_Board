@@ -50,7 +50,7 @@ A responsive and dynamic **Task Board Application** built using **React**, **Vit
 
 ### 📦 Clone the Repository
 ```bash
-git clone https://github.com/your-username/task-board-app.git
+git clone https://github.com/DivyaP1063/task-board-app.git
 cd task-board-app
 ```
 
