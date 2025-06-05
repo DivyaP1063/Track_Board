@@ -101,4 +101,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 **Author:** Divya Prakash 
 **Email:** divyaprakash1063@gmail.com  
-**GitHub:** [@yourusername](https://github.com/yourusername)
+**GitHub:** [@DivyaP1063](https://github.com/DivyaP1063)
